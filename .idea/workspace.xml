@@ -2,7 +2,177 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1127d031-1dc0-4cf4-8759-41e8aff92f25" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.308f5490fdac2ab65825122d03b766af.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.308f5490fdac2ab65825122d03b766af.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.8455cfd42535e326db2e37ca5491dc09.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.8455cfd42535e326db2e37ca5491dc09.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.86ae748599ec6223e66ca6e21bcb8327.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.86ae748599ec6223e66ca6e21bcb8327.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.b0a0fea76c100d8db3d394cd8edfa385.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.b0a0fea76c100d8db3d394cd8edfa385.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.e9b21ce6c7e650cb2e1eb4ed2a02f5c4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.e9b21ce6c7e650cb2e1eb4ed2a02f5c4.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.f1864e56d225b857f9cc63dcef2d5c4e.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/css/app.f1864e56d225b857f9cc63dcef2d5c4e.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/img/vux_logo.79cbb96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.195adaf3ba5eb2116532.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.195adaf3ba5eb2116532.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.1a725a1bc50a86a155a6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.1a725a1bc50a86a155a6.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.1e20385d56626a975680.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.1e20385d56626a975680.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.1ed116e17d5c36d1bdb9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.1ed116e17d5c36d1bdb9.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.1f53e71a21d5f4694126.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.1f53e71a21d5f4694126.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.2831426b091b8ed4c01f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.2831426b091b8ed4c01f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.3508a8257c387b1e3e3c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.3508a8257c387b1e3e3c.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.35e19595dcd6c3aed857.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.35e19595dcd6c3aed857.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.36e27c4a859f37b802cf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.36e27c4a859f37b802cf.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.42009c2d76546d91d1f6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.42009c2d76546d91d1f6.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.438c57c1c520981f9622.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.438c57c1c520981f9622.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.570b6a3447df83c68ee2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.570b6a3447df83c68ee2.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.5d2cecbcf86126cf362c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.5d2cecbcf86126cf362c.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.6708934387caee94cfa5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.6708934387caee94cfa5.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.68923c476704132b1d1e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.68923c476704132b1d1e.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.6d3df38c6e5b9db8900a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.6d3df38c6e5b9db8900a.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.7233add2823747ce1cce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.7233add2823747ce1cce.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.7be52be5784d60883fa3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.7be52be5784d60883fa3.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.7d83c89a5b29218a15e6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.7d83c89a5b29218a15e6.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.8f4c1063718a8b5492d5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.8f4c1063718a8b5492d5.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.999f915ce79fe82d0f66.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.999f915ce79fe82d0f66.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.a16a9d13ec9dd5e9aeb6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.a16a9d13ec9dd5e9aeb6.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.b08393f5e3a93023aa18.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.b08393f5e3a93023aa18.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.b15202701bdf5e72928d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.b15202701bdf5e72928d.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.b2220b0533ccaa3b0494.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.b2220b0533ccaa3b0494.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.b541155f91b48cd30525.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.b541155f91b48cd30525.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.bb9b5d455ff4d313604f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.bb9b5d455ff4d313604f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.bddb7f1e13021747f499.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.bddb7f1e13021747f499.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.bec18a8650749410430d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.bec18a8650749410430d.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.bf83134cb438428799a6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.bf83134cb438428799a6.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.c9e5c9af354105416013.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.c9e5c9af354105416013.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.e72cfedb1a100000facb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.e72cfedb1a100000facb.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.ef1bf3186e6e6d62d1b1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.ef1bf3186e6e6d62d1b1.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.f9c45ce153e65b0e6cce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/app.f9c45ce153e65b0e6cce.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.0e265f0e3d93c1899ffb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.0e265f0e3d93c1899ffb.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.1048fea2e241ce932686.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.1048fea2e241ce932686.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.189da61e85b787b5e8d1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.189da61e85b787b5e8d1.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.18e09824859099294e6c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.18e09824859099294e6c.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.282da3e8e45ea46ea5b1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.282da3e8e45ea46ea5b1.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.37998944686e2a3e279d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.37998944686e2a3e279d.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.3a36bf87716b5529ddcc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.3a36bf87716b5529ddcc.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.44486cdb34516a4a9aa5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.44486cdb34516a4a9aa5.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.4507a70e19b1d5601450.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.4507a70e19b1d5601450.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.549c6dd14ad519159f54.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.549c6dd14ad519159f54.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.65719411fc1be62f05f0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.65719411fc1be62f05f0.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.673c860595e5e6b914c7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.673c860595e5e6b914c7.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.68e2940a339e211d498f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.68e2940a339e211d498f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.6fb0ec149e53e86baee5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.6fb0ec149e53e86baee5.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.7034656428a9d8ec5ccd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.7034656428a9d8ec5ccd.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.77152e16cf0167ef3959.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.77152e16cf0167ef3959.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.85109e8ec7b7d5b5f271.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.85109e8ec7b7d5b5f271.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.86aa321baede6b566733.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.86aa321baede6b566733.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.901c8786133eb66532a8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.901c8786133eb66532a8.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.9fc66728bc28b8e2b26c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.9fc66728bc28b8e2b26c.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.a92033496ad89f73ec30.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.a92033496ad89f73ec30.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.b6a681b4a044a16974af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.b6a681b4a044a16974af.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.bad84c53a8139567ad16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.bad84c53a8139567ad16.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.bd507f0f485520120de9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.bd507f0f485520120de9.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.c7040df7e28aaa40b484.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.c7040df7e28aaa40b484.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.cf04758f0347ab187709.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.cf04758f0347ab187709.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.d97f551778345eab0d9f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.d97f551778345eab0d9f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.deec37c001d157eac28b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.deec37c001d157eac28b.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.e1eabdd21b0cf1370928.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.e1eabdd21b0cf1370928.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.e51f8518471cae3b83af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.e51f8518471cae3b83af.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.e8a74dc19f016aea703b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.e8a74dc19f016aea703b.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.e9e38a8a366505438073.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.e9e38a8a366505438073.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.ed6333333099475d25a9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.ed6333333099475d25a9.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.f8155fcafc290ab36f57.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/manifest.f8155fcafc290ab36f57.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.018dcb5187b2d1e91ff9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.018dcb5187b2d1e91ff9.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.02b40c7ee7b236124cea.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.02b40c7ee7b236124cea.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.2a72c839196a320e94ba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.2a72c839196a320e94ba.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.3c1010ebc0fb567ab814.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.3c1010ebc0fb567ab814.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.53eb5b7704597c483d5b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.53eb5b7704597c483d5b.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.840dbef93588b929820f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.840dbef93588b929820f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.996145ae5baba62cea27.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.996145ae5baba62cea27.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.a2cc8c87637d74365e25.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.a2cc8c87637d74365e25.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.f6901af8a0d5f624dd86.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/views/static/js/vendor.f6901af8a0d5f624dd86.js.map" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +195,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="Mobile.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile/controllers/Mobile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-447">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="280">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -92,9 +262,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,7 +286,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,11 +428,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3263000" />
+    <option name="totallyTimeSpent" value="3863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="323" y="0" width="1232" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -271,7 +440,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2832981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24312897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -283,11 +452,29 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2832981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976973" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,6 +518,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/安装说明.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -342,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -350,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -358,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="82" column="34" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -370,10 +562,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/controllers/Mobile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="280">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/安装说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4679edce-1a67-49e1-acd3-b77b2d2242e2/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/config/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="82" column="34" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/controllers/Staff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/controllers/Mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -382,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-447">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
