@@ -2,57 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1127d031-1dc0-4cf4-8759-41e8aff92f25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ERP-PCWeb.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cache/ci_account_info77fdcf5b3e6e03e65c2dddb57a811775" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cache/ci_order1537db3da9b4a49d7f7b03f877f000d5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cache/ci_order_info4d1193fbfcd19f5aef55414bf512c90b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cache/ci_ordera918ecc86650f728f6b6ae03a94c8f68" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cache/ci_orderbcc9226bd7c7d8a426beb1751909acb6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.8455cfd42535e326db2e37ca5491dc09.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.8455cfd42535e326db2e37ca5491dc09.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.6708934387caee94cfa5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.6708934387caee94cfa5.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.7be52be5784d60883fa3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.7be52be5784d60883fa3.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.e72cfedb1a100000facb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.e72cfedb1a100000facb.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.f9c45ce153e65b0e6cce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.f9c45ce153e65b0e6cce.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.7034656428a9d8ec5ccd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.7034656428a9d8ec5ccd.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.85109e8ec7b7d5b5f271.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.85109e8ec7b7d5b5f271.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.86aa321baede6b566733.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.86aa321baede6b566733.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.d97f551778345eab0d9f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.d97f551778345eab0d9f.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.018dcb5187b2d1e91ff9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.018dcb5187b2d1e91ff9.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.02b40c7ee7b236124cea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.02b40c7ee7b236124cea.js.map" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/99d6e3e2-f43b-4f1e-bfa4-d498bb6cd426.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_contact40a874c15994fd5996225a9c72fc46f6" afterPath="$PROJECT_DIR$/data/cache/ci_contact40a874c15994fd5996225a9c72fc46f6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/controllers/Mobile.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_address6f61258526d91a372052dd595690b6d7" afterPath="$PROJECT_DIR$/data/cache/ci_address6f61258526d91a372052dd595690b6d7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_addresse0dd78eea8dcb7bfd8ca165906f1fdca" afterPath="$PROJECT_DIR$/data/cache/ci_addresse0dd78eea8dcb7bfd8ca165906f1fdca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_assistingprop5707b760704cf7c8fd808f95881a127a" afterPath="$PROJECT_DIR$/data/cache/ci_assistingprop5707b760704cf7c8fd808f95881a127a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_assistingpropb2b9528758ba290413696d27f8147723" afterPath="$PROJECT_DIR$/data/cache/ci_assistingpropb2b9528758ba290413696d27f8147723" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_assistsku230efb23c6355387eb8d62eedcaa5124" afterPath="$PROJECT_DIR$/data/cache/ci_assistsku230efb23c6355387eb8d62eedcaa5124" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_assistskuc749543f4776c0595b7a5bc784fd5dec" afterPath="$PROJECT_DIR$/data/cache/ci_assistskuc749543f4776c0595b7a5bc784fd5dec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_category0ca0a8122b801ed55c770a9e531be2aa" afterPath="$PROJECT_DIR$/data/cache/ci_category0ca0a8122b801ed55c770a9e531be2aa" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_categorybd32d0eb38b4cd1ff37a0681801af182" afterPath="$PROJECT_DIR$/data/cache/ci_categorybd32d0eb38b4cd1ff37a0681801af182" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_categorybe13da2e225dea25a3c3e19c4c42d7b7" afterPath="$PROJECT_DIR$/data/cache/ci_categorybe13da2e225dea25a3c3e19c4c42d7b7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_contact9aa065f7af6d7e16e9fc566a3da76681" afterPath="$PROJECT_DIR$/data/cache/ci_contact9aa065f7af6d7e16e9fc566a3da76681" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_unittype4c143e8ddbbe52b5070633c9ef61c592" afterPath="$PROJECT_DIR$/data/cache/ci_unittype4c143e8ddbbe52b5070633c9ef61c592" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/ci_unittypef152de2acf864428ca08f270ad935429" afterPath="$PROJECT_DIR$/data/cache/ci_unittypef152de2acf864428ca08f270ad935429" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/安装说明.txt" afterPath="$PROJECT_DIR$/安装说明.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/config/database.php" afterPath="$PROJECT_DIR$/mobile/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/controllers/Staff.php" afterPath="$PROJECT_DIR$/mobile/controllers/Staff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/views/index.html" afterPath="$PROJECT_DIR$/mobile/views/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,12 +17,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-447">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -88,6 +54,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/安装说明.txt" />
+        <option value="$PROJECT_DIR$/mobile/config/database.php" />
+        <option value="$PROJECT_DIR$/mobile/controllers/Staff.php" />
+        <option value="$PROJECT_DIR$/mobile/controllers/Mobile.php" />
       </list>
     </option>
   </component>
@@ -109,7 +78,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
+    <option name="x" value="323" />
     <option name="width" value="1232" />
     <option name="height" value="1057" />
   </component>
@@ -128,6 +97,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,14 +107,22 @@
               <item name="ERP-PCWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="ERP-PCWeb" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ERP-PCWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ERP-PCWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ERP-PCWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ERP-PCWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,6 +134,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="8.0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -269,14 +250,15 @@
       <workItem from="1511146707080" duration="641000" />
       <workItem from="1511153431634" duration="446000" />
       <workItem from="1511157473062" duration="1228000" />
+      <workItem from="1511165197530" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2315000" />
+    <option name="totallyTimeSpent" value="2919000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="0" width="1232" height="1057" extended-state="0" />
+    <frame x="323" y="0" width="1232" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -291,7 +273,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976973" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -336,6 +318,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/安装说明.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -343,9 +333,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4679edce-1a67-49e1-acd3-b77b2d2242e2/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/config/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="82" column="34" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/controllers/Staff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/controllers/Mobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>

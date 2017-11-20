@@ -15,7 +15,7 @@ class Staff extends CI_Controller
 
     public function index() {
 
-        $this->load->view('dist/index.html');
+//        $this->load->view('dist/index.html');
     }
 
     public function validate() {
